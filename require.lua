@@ -1,4 +1,7 @@
+-- (c) 2012 kikito, MIT License
 -- https://github.com/kikito/fay/blob/master/src/lib/require.lua
+-- https://love2d.org/forums/viewtopic.php?p=102281#p102281
+-- updated to work with newer love2d versions
 
 local oldRequire = require
 
